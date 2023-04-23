@@ -222,7 +222,7 @@ switch (d) {
 // {console.log(array[x]);};
 
 //foreach loop
-
+// this is for example
 // array=[1,2,22,32,4,9];              
 // array.forEach(function(element) //To print elements of an array one by one we can also use 
 //                                //foreach loop
